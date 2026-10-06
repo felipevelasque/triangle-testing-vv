@@ -1,5 +1,7 @@
 # Is this a triangle?
 
+![Java CI](https://github.com/felipevelasque/triangle-testing-vv/actions/workflows/ci.yml/badge.svg)
+
 Projeto desenvolvido para a disciplina de **Verificação e Validação** da PUCRS.
 
 O objetivo é aplicar técnicas de teste de software ao kata **Is this a triangle?**, disponível no CodeWars.
