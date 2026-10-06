@@ -85,8 +85,11 @@ Foram implementados:
 - 6 testes de Particionamento de Equivalência;
 - 6 testes de Análise de Valores Limite.
 
-## Referencial teórico
+
+ ## Referencial teórico
 
 As técnicas utilizadas foram fundamentadas nos seguintes trabalhos:
 
-- REID, Stuart
+- REID, Stuart C. *An Empirical Analysis of Equivalence Partitioning, Boundary Value Analysis and Random Testing*. Proceedings of the Fourth International Software Metrics Symposium. IEEE Computer Society, 1997, p. 64–73. DOI: 10.1109/METRIC.1997.637166.
+
+- HATTORI, Satoshi. *Computer Algebra System as Test Generation System*. IEICE Transactions on Information and Systems, v. E93-D, n. 5, p. 1006–1017, 2010. DOI: 10.1587/transinf.E93.D.1006.REID, Stuart
